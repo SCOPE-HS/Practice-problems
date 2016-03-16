@@ -5,6 +5,7 @@ In this problem you must build and transverse a network of nodes and report in t
 
 ## Input
 ### Format
+```
 Node-Name-One Node-Name-2 Directions
 ... ... ...
 Node-Name-OneHundred Node-Name-OneOhOne Directions
@@ -13,6 +14,7 @@ Start-Node End-Node
 ... ...
 Start-Node End-Node
 0 0 0
+```
 
 ### Where:
 Node Names is a string with no spaces.
