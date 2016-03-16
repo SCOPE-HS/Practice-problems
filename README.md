@@ -9,6 +9,8 @@ All problems should be in sub-folders for each problem.
 |-----------------|-----------------------------------------------------|
 | Description.txt | Basic Description of problem.                       |
 | Story.txt       | A story to go along with the problem. (Optional)    |
+| Background.txt  | Background on creation of the problem. (Optional)   |
 | SolvedIn.txt    | Languages the problem has been solved in.           |
 | Problem-In-#    | A Example problem input. (Starts at 00 and goes up) |
 | Problem-Out-#   | The output for the respective input.                |
+|-----------------|-----------------------------------------------------|
